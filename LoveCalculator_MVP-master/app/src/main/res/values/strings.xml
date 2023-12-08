@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LC2</string>
+    <string name="calculate">Calculate</string>
+    <string name="me">Me</string>
+    <string name="second_name">Second name</string>
+    <string name="love_calculator">Love Calculator</string>
+    <string name="first_name">First name</string>
+    <string name="you">You</string>
+</resources>
